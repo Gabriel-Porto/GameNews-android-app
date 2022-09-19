@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Noticias</string>
+    <string name="app_title">GameNews</string>
+    <string name="HeaderExample">Título da notícia</string>
+    <string name="DateExample">31/08/2022</string>
+    <string name="Author1">Francisco Mateus</string>
+    <string name="Author2">Gabriel Porto</string>
+    <string name="previous">Anterior</string>
+    <string name="next">Próximo</string>
+    <string name="NewsTextExample">O novo God of War é muito bom bla bla bla bla bla lasdladpasldkasodk</string>
+</resources>
